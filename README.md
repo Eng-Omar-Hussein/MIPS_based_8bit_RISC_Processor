@@ -8,7 +8,7 @@ Useing Loops, Find the number of ones in the binary equivalent of a given intege
 
 ```vhdl
 constant inst : memoryinst := (
-			x"7209",--0 -- r1 <- 29
+			x"721D",--0 -- r1 <- 29
 			x"0000",--1 -- r3 <- 0
 			x"0000",--2 -- r2 <- 0
 			x"7802",--3 -- r4 <- 2
